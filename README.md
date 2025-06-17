@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/thinkfar-clear-thought-mcp-badge.png)](https://mseep.ai/app/thinkfar-clear-thought-mcp)
+
 # Clear Thought MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@chirag127/clear-thought-mcp-server)](https://smithery.ai/server/@chirag127/clear-thought-mcp-server)
