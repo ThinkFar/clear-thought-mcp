@@ -4,6 +4,10 @@
 
 A Model Context Protocol (MCP) server that provides systematic thinking, mental models, and debugging approaches for enhanced problem-solving capabilities.
 
+<a href="https://glama.ai/mcp/servers/@ThinkFar/clear-thought-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@ThinkFar/clear-thought-mcp/badge" alt="Clear Thought Server MCP server" />
+</a>
+
 ## Features
 
 ### Mental Models
